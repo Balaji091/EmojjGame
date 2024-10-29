@@ -1,0 +1,21 @@
+.emoji-container{
+    display: flex;
+    flex-wrap: wrap;
+    flex: 1;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(54, 54, 212);
+    color: white;
+    margin-bottom: 30px;
+
+}
+.score{
+    display: flex;
+    margin-right: 100px;
+}
+p{
+    margin-left: 50px;
+    margin-top: 30px;
+}
